@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lithoZen/static/css/main.3c9baf9c.css",
+    "main.js": "/lithoZen/static/js/main.40deab7a.js",
+    "static/js/453.17df75c9.chunk.js": "/lithoZen/static/js/453.17df75c9.chunk.js",
+    "static/media/Pierre.jpg": "/lithoZen/static/media/Pierre.4d8dfa8defe5cbe0dfd3.jpg",
+    "static/media/Encens.jpg": "/lithoZen/static/media/Encens.13773917fd36e77ed415.jpg",
+    "index.html": "/lithoZen/index.html",
+    "main.3c9baf9c.css.map": "/lithoZen/static/css/main.3c9baf9c.css.map",
+    "main.40deab7a.js.map": "/lithoZen/static/js/main.40deab7a.js.map",
+    "453.17df75c9.chunk.js.map": "/lithoZen/static/js/453.17df75c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c9baf9c.css",
+    "static/js/main.40deab7a.js"
+  ]
+}
