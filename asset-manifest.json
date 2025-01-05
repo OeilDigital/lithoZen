@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/lithoZen/static/css/main.5c2d4269.css",
-    "main.js": "/lithoZen/static/js/main.78bc1595.js",
+    "main.css": "/lithoZen/static/css/main.54dd743d.css",
+    "main.js": "/lithoZen/static/js/main.b52a014d.js",
     "static/js/453.17df75c9.chunk.js": "/lithoZen/static/js/453.17df75c9.chunk.js",
     "static/media/Pierre.jpg": "/lithoZen/static/media/Pierre.4d8dfa8defe5cbe0dfd3.jpg",
     "static/media/Encens.jpg": "/lithoZen/static/media/Encens.13773917fd36e77ed415.jpg",
     "index.html": "/lithoZen/index.html",
-    "main.5c2d4269.css.map": "/lithoZen/static/css/main.5c2d4269.css.map",
-    "main.78bc1595.js.map": "/lithoZen/static/js/main.78bc1595.js.map",
+    "main.54dd743d.css.map": "/lithoZen/static/css/main.54dd743d.css.map",
+    "main.b52a014d.js.map": "/lithoZen/static/js/main.b52a014d.js.map",
     "453.17df75c9.chunk.js.map": "/lithoZen/static/js/453.17df75c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c2d4269.css",
-    "static/js/main.78bc1595.js"
+    "static/css/main.54dd743d.css",
+    "static/js/main.b52a014d.js"
   ]
 }
